@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar Pandey</h1>
 <h3 align="center">A passionate learner of DSA(C++) and FLUTTER (Android Development)</h3>
 
-<img align="right" alt="coding" width="400" src="[https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/200.gif](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Jwac0_vBQ6Mk7SWmAegOE&ust=1696863949460000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiF5Pnc5oEDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypandey28&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypandey28" /> </p>
 
