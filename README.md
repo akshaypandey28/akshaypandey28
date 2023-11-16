@@ -1,8 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently studying in ECE<br> I’m currently learning DSA(C++) , FLUTTER , Web Development & Blockchain<br>How to reach me  akshaychaman2004@gmail.com
+🔭 I’m currently studying in ECE<br> I’m currently learning DSA(C++) , FLUTTER , Web Development & Blockchain<br>How to reach me
 akshayp.ug22.ec@nitp.ac.in
-<br>Resume
-https://drive.google.com/file/d/16gHOybg02xmLqKo0T4z8AGXlMX9kcARq/view?usp=drivesdk
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshaypandey__.2710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-kumar-pandey-7a229724a) 
 
